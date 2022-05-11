@@ -13,6 +13,7 @@ package pl.sda.arp4.collections.funkcje;
         int sumaY = obliczSumeElementow(tablicaY);
         System.out.println("Suma tablica Y : " + sumaY);
 
+
     }
 
     // void - funkcja nic nie zwraca

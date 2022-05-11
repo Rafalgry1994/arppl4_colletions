@@ -1,4 +1,4 @@
-package pl.sda.arp4.collections.zadania;
+package pl.sda.arp4.collections.modele;
 
 //Zadanie 1:
        // Napisz aplikację w której zadeklaruj tablicę 10 elementów a następnie:

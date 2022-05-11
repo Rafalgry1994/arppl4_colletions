@@ -1,4 +1,4 @@
-package pl.sda.arp4.collections;
+package pl.sda.arp4.collections.modele;
 
 import java.util.Arrays;
 import java.util.Random;

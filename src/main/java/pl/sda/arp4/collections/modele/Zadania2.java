@@ -1,4 +1,4 @@
-package pl.sda.arp4.collections.zadania;
+package pl.sda.arp4.collections.modele;
 
 //Zadanie generator:
 //1. Wygeneruj 100 liczb z zakresu 0-50 i wypisz je na ekran.

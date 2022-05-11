@@ -1,4 +1,4 @@
-package pl.sda.arp4.collections;
+package pl.sda.arp4.collections.modele;
 
 
         public class Main {
